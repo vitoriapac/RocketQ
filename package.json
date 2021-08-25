@@ -1,0 +1,24 @@
+{
+  "name": "rocket.q",
+  "version": "1.0.0",
+  "description": "Plataforma para gereciar perguntas anonimas de usuarios ao dono da página. Projeto desenvolvido durante a semana NLW, missão discovery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoriapac/RocketQ.git"
+  },
+  "keywords": [],
+  "author": "Vitoria Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoriapac/RocketQ/issues"
+  },
+  "homepage": "https://github.com/vitoriapac/RocketQ#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
