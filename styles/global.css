@@ -61,6 +61,8 @@ textarea {
   border-width: 0;
 }
 
+/* input & buttons */
+
 input,
 button,
 .button {
@@ -102,6 +104,20 @@ button.outlined,
   color: var(--blue);
   border: 0.2rem solid var(--blue);
 }
+
+button.red,
+.button.red {
+  background: var(--red);
+  color: var(--white);
+}
+
+button.gray,
+.button.gray {
+  background: var(--gray-ligth);
+  color: var(--gray-dark);
+}
+
+/* HEADER */
 
 .content header {
   width: 80%;
